@@ -1,3 +1,3 @@
-def reverse_each_word("Hello there, s how are you?")
+def reverse_each_word(string)
   
 end
